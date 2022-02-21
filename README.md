@@ -15,3 +15,5 @@ GETTING STARTED
     python manage.py createsuperuser
     
 ![](static/images/personal-blog.jpg)
+
+.edit 
